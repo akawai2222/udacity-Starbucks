@@ -1,6 +1,7 @@
 ## Udacity Machine Learning Engineer Nanodegree
 
 ### Capstone Project
+
 ### Starbucks mobile app project
 
 ### Introduction
