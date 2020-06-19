@@ -17,7 +17,7 @@ Data analysis, preprocessing, model training, prediction have done in each jupyt
 - Data Exploration, Visualization, Prepocessing.ipynb - Data analysis and preprocessing
 - Naive Classifier and Logistic Regression.ipynb - Benchmark model
 - Training a Neural Network Model.ipynb - Pytorch model for classification
-- XGBoostClassifier.ipynb - XGBoost XGBoostClassifier
+- XGBoostClassifier.ipynb - XGBoostClassifier
 - XGBoostClassifier-hyperparameter.ipynb - XGBoostClassifier with hyperparameter tuning
 
 ## Libraries
